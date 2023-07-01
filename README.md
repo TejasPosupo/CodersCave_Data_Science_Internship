@@ -7,9 +7,3 @@
 | --- | --- | --- |
 
 
-
-<h3 align="left">Golden Tasks:</h3>
-
-| <a href="https://github.com/TejasPosupo/CodersCave_Data_Science_Internship/tree/CodersCave_Data_Science_Internship/Covid%2019%20Analysis"><img src="https://github.com/TejasPosupo/images/blob/main/covid-19-image.png" alt="4K Mountains Wallpaper"></a> <br> Task-4 - [Covid 19 Analysis Dashbord](https://github.com/TejasPosupo/CodersCave_Data_Science_Internship/tree/CodersCave_Data_Science_Internship/Covid%2019%20Analysis) | <a href="https://github.com/TejasPosupo/CodersCave_Data_Science_Internship/tree/CodersCave_Data_Science_Internship/IMDB%20Data%20Analysis"><img src="https://github.com/TejasPosupo/images/blob/main/1-NDQR0S6ZkD4Hb1h1QIUdFQ.png" alt="4K Mountains Wallpaper"></a> <br> Task-5 - [IMDB Data Analysis](https://github.com/TejasPosupo/CodersCave_Data_Science_Internship/tree/CodersCave_Data_Science_Internship/IMDB%20Data%20Analysis) |
-| --- | --- |
-
